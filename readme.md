@@ -62,6 +62,8 @@ What I installed in my macOS
  -Browser.
 #### [Dropbox](https://www.dropbox.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -Dropbox is a file hosting service.
+#### [Obsidian](https://obsidian.md) 📱 <img src="iPadOS.jpg" width="20" height="20" />
+ -Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 #### [Evernote](https://evernote.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -Evernote is an app designed for note taking, organizing, task management, and archiving.
 #### [Notability](https://www.gingerlabs.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
