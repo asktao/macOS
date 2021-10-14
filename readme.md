@@ -138,6 +138,8 @@ What I installed in my macOS
 
 
 ## Command Line
+[my dotfiles](https://github.com/asktao/dotfiles)
+
 * [brew](https://brew.sh) Package Manager
 * [ag](https://github.com/ggreer/the_silver_searcher)
 * [jq](https://stedolan.github.io/jq/)
