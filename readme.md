@@ -36,6 +36,8 @@ What I installed in my macOS
 
 #### [Wireshark](https://www.wireshark.org)
  -Wireshark is a free and open-source packet analyzer.
+#### [Charles](https://www.charlesproxy.com)
+ -Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 #### [Visual Studio Code](https://code.visualstudio.com)
  -Visual Studio Code is a source-code editor.
 #### [Paw](https://paw.cloud)
