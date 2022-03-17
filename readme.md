@@ -94,6 +94,7 @@ What I installed in my macOS
 #### [IINA](https://iina.io)
  -IINA is a free and open-source media player.
 #### [VLC](https://www.videolan.org) 📱 <img src="iPadOS.jpg" width="20" height="20" />
+ -VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols.
 
 ### Music
 
