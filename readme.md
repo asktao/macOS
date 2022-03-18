@@ -95,6 +95,8 @@ What I installed in my macOS
  -IINA is a free and open-source media player.
 #### [VLC](https://www.videolan.org) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols.
+#### [Vectornator](https://www.vectornator.io) 📱 <img src="iPadOS.jpg" width="20" height="20" />
+ -Vectornator is a graphic design software, developed by Linearity GmbH, that simplifies the design creation process for designers by providing intuitive tools & automating routine problems faced in the area.
 
 ### Music
 
