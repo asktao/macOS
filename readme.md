@@ -81,7 +81,7 @@ What I installed in my macOS
 
 #### [Final Cut Pro](https://www.apple.com/sg/final-cut-pro/) 
  -Final Cut Pro offers the most advanced organising tools of any professional video-editing application.
-#### [iMove](https://www.apple.com/sg/imovie/)  📱 <img src="iPadOS.jpg" width="20" height="20" />
+#### [iMovie](https://www.apple.com/sg/imovie/)  📱 <img src="iPadOS.jpg" width="20" height="20" />
  -iMovie is a video editing software application.
 #### [Affinity Designer](https://affinity.serif.com/en-gb/designer) <img src="iPadOS.jpg" width="20" height="20" />
  -Affinity Designer is a vector graphics editor.
