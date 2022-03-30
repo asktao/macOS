@@ -26,6 +26,8 @@ What I installed in my macOS
  -Xcode is Apple's integrated development environment for macOS, used to develop software for macOS, iOS, iPadOS, watchOS, and tvOS.
 #### [TestFlight](https://developer.apple.com/testflight/)  📱  <img src="iPadOS.jpg" width="20" height="20" />
  -TestFlight makes it easy to invite users to test your apps and App Clips and collect valuable feedback before releasing your apps on the App Store.
+#### [Developer](https://developer.apple.com)  📱  <img src="iPadOS.jpg" width="20" height="20" />
+
 #### [Dash](https://kapeli.com/dash) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -Dash is an API Documentation Browser and Code Snippet Manager.
 #### [Sublime Text](https://www.sublimetext.com)
