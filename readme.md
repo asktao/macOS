@@ -48,6 +48,8 @@ What I installed in my macOS
  -Paw is a full-featured and beautifully designed Mac app that makes interaction with REST services delightful.
 #### [iTerm](https://iterm2.com)
  -iTerm2 is a replacement for Terminal and the successor to iTerm.
+#### [CodeRunner](https://coderunnerapp.com)
+ -A lightweight, multi-language programming text editor and IDE for macOS.
 ### Productivity
 
 #### [Keynote](https://www.apple.com/sg/keynote/)  📱 <img src="iPadOS.jpg" width="20" height="20" />
