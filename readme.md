@@ -10,18 +10,18 @@ What I installed in my macOS
 
 * [Applications](#applications)
     * [Developer](#developer)
-    * [Productivity](#productivity)
+    * [Education](#education)
     * [Graphics](#graphics)
     * [Music](#music)
     * [News](#news)
+    * [Productivity](#productivity)
+    * [Reference](#reference)
     * [Social](#social)
     * [Utilities](#utilities)
 * [Command Line](#command-line)
 
 ## Applications
-
 ### Developer
-
 #### [Xcode](https://developer.apple.com/xcode) 
  -Xcode is Apple's integrated development environment for macOS, used to develop software for macOS, iOS, iPadOS, watchOS, and tvOS.
 #### [TestFlight](https://developer.apple.com/testflight/)  📱  <img src="iPadOS.jpg" width="20" height="20" />
@@ -50,8 +50,49 @@ What I installed in my macOS
  -iTerm2 is a replacement for Terminal and the successor to iTerm.
 #### [CodeRunner](https://coderunnerapp.com)
  -A lightweight, multi-language programming text editor and IDE for macOS.
-### Productivity
 
+ ### Education
+#### [Anki](https://apps.ankiweb.net) 📱 <img src="iPadOS.jpg" width="20" height="20" />
+ -Anki is a program which makes remembering things easy.
+
+ ### Graphics
+#### [Final Cut Pro](https://www.apple.com/sg/final-cut-pro/) 
+ -Final Cut Pro offers the most advanced organising tools of any professional video-editing application.
+#### [iMovie](https://www.apple.com/sg/imovie/)  📱 <img src="iPadOS.jpg" width="20" height="20" />
+ -iMovie is a video editing software application.
+#### [Affinity Designer](https://affinity.serif.com/en-gb/designer) <img src="iPadOS.jpg" width="20" height="20" />
+ -Affinity Designer is a vector graphics editor.
+#### [Affinity Photo](ihttps://affinity.serif.com/en-gb/photo) <img src="iPadOS.jpg" width="20" height="20" />
+ -Affinity Photo is a raster graphics editor.
+#### [Sketch](https://www.sketch.com)
+ -Sketch is a vector graphics editor.
+#### [Pixelmator Pro](https://www.pixelmator.com/pro/) 📱 <img src="iPadOS.jpg" width="20" height="20" />
+ -Pixelmator Pro includes a stunning collection of handcrafted dual-texture brushes, full graphics tablet support, and advanced paint blending technologies.
+#### [DaVinci Resolve](https://www.blackmagicdesign.com/sg/products/davinciresolve)
+ -DaVinci Resolve is a color correction and non-linear video editing application.
+#### [IINA](https://iina.io)
+ -IINA is a free and open-source media player.
+#### [VLC](https://www.videolan.org) 📱 <img src="iPadOS.jpg" width="20" height="20" />
+ -VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols.
+#### [Vectornator](https://www.vectornator.io) 📱 <img src="iPadOS.jpg" width="20" height="20" />
+ -Vectornator is a graphic design software, developed by Linearity GmbH, that simplifies the design creation process for designers by providing intuitive tools & automating routine problems faced in the area.
+
+ ### Music
+#### [Logic Pro](https://www.apple.com/sg/logic-pro/) 
+ -Logic Pro is a digital audio workstation and MIDI sequencer software application.
+#### [MainStage](https://www.apple.com/sg/mainstage/) 
+ -MainStage supports your addiction to knobs, buttons and faders. It can connect with just about any external MIDI device on the planet.
+#### [GarageBand](https://www.apple.com/sg/mac/garageband/)  📱 <img src="iPadOS.jpg" width="20" height="20" />
+ -GarageBand is a line of digital audio workstations.
+#### [Spotify](https://www.spotify.com/sg-en) 📱 <img src="iPadOS.jpg" width="20" height="20" />
+
+#### [VOX](https://vox.rocks) 📱 <img src="iPadOS.jpg" width="20" height="20" />
+
+### News
+#### [Reeder](https://reederapp.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
+ -RSS reader and read later client
+
+### Productivity
 #### [Keynote](https://www.apple.com/sg/keynote/)  📱 <img src="iPadOS.jpg" width="20" height="20" />
  -Keynote is a presentation software application.
 #### [Numbers](https://www.apple.com/sg/numbers/)  📱 <img src="iPadOS.jpg" width="20" height="20" />
@@ -78,55 +119,13 @@ What I installed in my macOS
  -Combine handwriting, photos and typing in a single note to bring your projects to life.
 #### [GoodNotes](https://www.goodnotes.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -Discover the note-taking app loved by students, digital planners, notetakers all over the world.
-#### [Notion](https://www.notion.so) 📱 <img src="iPadOS.jpg" width="20" height="20" />
+#### [Notion](https://www.notion.so) 📱 <img src="iPadOS.jpg" width="20" height="20" /> 📱 💻
  -A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
 
-### Graphics
+### Reference
+#### Eudic 欧路词典 📱 <img src="iPadOS.jpg" width="20" height="20" />
 
-#### [Final Cut Pro](https://www.apple.com/sg/final-cut-pro/) 
- -Final Cut Pro offers the most advanced organising tools of any professional video-editing application.
-#### [iMovie](https://www.apple.com/sg/imovie/)  📱 <img src="iPadOS.jpg" width="20" height="20" />
- -iMovie is a video editing software application.
-#### [Affinity Designer](https://affinity.serif.com/en-gb/designer) <img src="iPadOS.jpg" width="20" height="20" />
- -Affinity Designer is a vector graphics editor.
-#### [Affinity Photo](ihttps://affinity.serif.com/en-gb/photo) <img src="iPadOS.jpg" width="20" height="20" />
- -Affinity Photo is a raster graphics editor.
-#### [Sketch](https://www.sketch.com)
- -Sketch is a vector graphics editor.
-#### [Pixelmator Pro](https://www.pixelmator.com/pro/) <img src="iPadOS.jpg" width="20" height="20" />
- -Pixelmator Pro includes a stunning collection of handcrafted dual-texture brushes, full graphics tablet support, and advanced paint blending technologies.
-#### [DaVinci Resolve](https://www.blackmagicdesign.com/sg/products/davinciresolve)
- -DaVinci Resolve is a color correction and non-linear video editing application.
-#### [IINA](https://iina.io)
- -IINA is a free and open-source media player.
-#### [VLC](https://www.videolan.org) 📱 <img src="iPadOS.jpg" width="20" height="20" />
- -VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols.
-#### [Vectornator](https://www.vectornator.io) 📱 <img src="iPadOS.jpg" width="20" height="20" />
- -Vectornator is a graphic design software, developed by Linearity GmbH, that simplifies the design creation process for designers by providing intuitive tools & automating routine problems faced in the area.
-
-### Music
-
-#### [Logic Pro](https://www.apple.com/sg/logic-pro/) 
- -Logic Pro is a digital audio workstation and MIDI sequencer software application.
-#### [MainStage](https://www.apple.com/sg/mainstage/) 
- -MainStage supports your addiction to knobs, buttons and faders. It can connect with just about any external MIDI device on the planet.
-#### [GarageBand](https://www.apple.com/sg/mac/garageband/)  📱 <img src="iPadOS.jpg" width="20" height="20" />
- -GarageBand is a line of digital audio workstations.
-#### [Spotify](https://www.spotify.com/sg-en) 📱 <img src="iPadOS.jpg" width="20" height="20" />
-
-#### [VOX](https://vox.rocks) 📱 <img src="iPadOS.jpg" width="20" height="20" />
-
-### News
-
-#### [Reeder](https://reederapp.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
- -RSS reader and read later client
-
-### Education
-
-#### [Anki](https://apps.ankiweb.net) 📱 <img src="iPadOS.jpg" width="20" height="20" />
- -Anki is a program which makes remembering things easy.
 ### Social
-
 #### [Telegram](https://telegram.org) 📱 <img src="iPadOS.jpg" width="20" height="20" />
 
 #### [Slack](https://slack.com/intl/en-sg) 📱 <img src="iPadOS.jpg" width="20" height="20" />
@@ -136,7 +135,6 @@ What I installed in my macOS
 #### [Wechat](https://www.wechat.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
 
 ### Utilities
-
 #### [Blender](https://www.blender.org)
  -Blender is the free and open source 3D creation suite.
 #### [Keka](https://www.keka.io)
@@ -146,6 +144,8 @@ What I installed in my macOS
 #### [Toggl Track](https://toggl.com/track) 📱
 
 #### Kindle
+
+#### OpenVPN Connect 📱 <img src="iPadOS.jpg" width="20" height="20" />
 
 
 ## Command Line
