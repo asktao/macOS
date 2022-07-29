@@ -89,7 +89,7 @@ What I installed in my macOS
 #### [VOX](https://vox.rocks) 📱 <img src="iPadOS.jpg" width="20" height="20" />
 
 ### News
-#### [Reeder](https://reederapp.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
+#### [NetNewsWire](https://netnewswire.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -RSS reader and read later client
 
 ### Productivity
