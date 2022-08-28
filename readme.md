@@ -115,6 +115,10 @@ What I installed in my macOS
  -Browser.
 #### [Google Chrome](https://www.google.com/chrome) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -Browser.
+ + extensions
+ * [Evernote Web Clipper](https://evernote.com/features/webclipper) -Use the Evernote extension to save things you see on the web into your Evernote account.
+ * [Notion Web Clipper](https://www.notion.so/web-clipper) -Use our Web Clipper to save any website into Notion.
+ * [Zotero Connector](https://www.zotero.org/download/connectors) -Save references to Zotero from your web browser
 #### [Dropbox](https://www.dropbox.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -Dropbox is a file hosting service.
 #### [Obsidian](https://obsidian.md) 📱 <img src="iPadOS.jpg" width="20" height="20" />
