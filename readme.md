@@ -20,6 +20,8 @@ What I installed in my macOS
     * [Social](#social)
     * [Utilities](#utilities)
 * [Command Line](#command-line)
+* [iPadOS](#iPadOS-)
+* [iOS](#iOS-)
 
 ## Applications
 #Business
@@ -163,6 +165,8 @@ What I installed in my macOS
 * [tmux](https://tmux.github.io/)
 * [nmap](https://nmap.org)
 
+## [iPadOS <img src="iPadOS.jpg" width="20" height="20" />](https://github.com/asktao/iPadOS)
+## [iOS 📱](https://github.com/asktao/iOS)
 
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
