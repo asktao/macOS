@@ -20,11 +20,11 @@ What I installed in my macOS
     * [Social](#social)
     * [Utilities](#utilities)
 * [Command Line](#command-line)
-* [iPadOS](#iPadOS-)
-* [iOS](#iOS-)
++ [iOS](#iOS-)
++ [iPadOS](#iPadOS-)
 
 ## Applications
-#Business
+### Business
 #### [Aruba VIA](https://www.arubanetworks.com) 📱  <img src="iPadOS.jpg" width="20" height="20" />
  -The Aruba Virtual Intranet Access (VIA) client is a secure VPN service for users who need corporate connectivity at home, temporary sites, or while they're mobile.
 ### Developer
@@ -57,11 +57,11 @@ What I installed in my macOS
 #### [CodeRunner](https://coderunnerapp.com)
  -A lightweight, multi-language programming text editor and IDE for macOS.
 
- ### Education
+### Education
 #### [Anki](https://apps.ankiweb.net) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -Anki is a program which makes remembering things easy.
 
- ### Graphics
+### Graphics
 #### [Final Cut Pro](https://www.apple.com/sg/final-cut-pro/) 
  -Final Cut Pro offers the most advanced organising tools of any professional video-editing application.
 #### [iMovie](https://www.apple.com/sg/imovie/)  📱 <img src="iPadOS.jpg" width="20" height="20" />
@@ -83,7 +83,7 @@ What I installed in my macOS
 #### [Vectornator](https://www.vectornator.io) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -Vectornator is a graphic design software, developed by Linearity GmbH, that simplifies the design creation process for designers by providing intuitive tools & automating routine problems faced in the area.
 
- ### Music
+### Music
 #### [Logic Pro](https://www.apple.com/sg/logic-pro/) 
  -Logic Pro is a digital audio workstation and MIDI sequencer software application.
 #### [MainStage](https://www.apple.com/sg/mainstage/) 
@@ -129,8 +129,10 @@ What I installed in my macOS
  -Combine handwriting, photos and typing in a single note to bring your projects to life.
 #### [GoodNotes](https://www.goodnotes.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -Discover the note-taking app loved by students, digital planners, notetakers all over the world.
-#### [Notion](https://www.notion.so) 📱 <img src="iPadOS.jpg" width="20" height="20" /> 📱 💻
+#### [Notion](https://www.notion.so) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
+#### [Sip](https://sipapp.io)
+ -A modern color picker built for designers and developers, that allows you to collect, organize and edit colors.
 
 ### Reference
 #### Eudic 欧路词典 📱 <img src="iPadOS.jpg" width="20" height="20" />
@@ -169,10 +171,11 @@ What I installed in my macOS
 * [tmux](https://tmux.github.io/)
 * [nmap](https://nmap.org)
 
-## [iPadOS <img src="iPadOS.jpg" width="20" height="20" />](https://github.com/asktao/iPadOS)
- -What I installed in my iPadOS
 ## [iOS 📱](https://github.com/asktao/iOS)
  -What I installed in my iOS
+## [iPadOS <img src="iPadOS.jpg" width="20" height="20" />](https://github.com/asktao/iPadOS)
+ -What I installed in my iPadOS
+
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
