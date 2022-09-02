@@ -68,7 +68,7 @@ What I installed in my macOS
  -iMovie is a video editing software application.
 #### [Affinity Designer](https://affinity.serif.com/en-gb/designer) <img src="iPadOS.jpg" width="20" height="20" />
  -Affinity Designer is a vector graphics editor.
-#### [Affinity Photo](ihttps://affinity.serif.com/en-gb/photo) <img src="iPadOS.jpg" width="20" height="20" />
+#### [Affinity Photo](https://affinity.serif.com/en-gb/photo) <img src="iPadOS.jpg" width="20" height="20" />
  -Affinity Photo is a raster graphics editor.
 #### [Sketch](https://www.sketch.com)
  -Sketch is a vector graphics editor.
