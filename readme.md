@@ -140,8 +140,6 @@ What I installed in my macOS
 ### Social
 #### [Telegram](https://telegram.org) 📱 <img src="iPadOS.jpg" width="20" height="20" />
 
-#### [Slack](https://slack.com/intl/en-sg) 📱 <img src="iPadOS.jpg" width="20" height="20" />
-
 #### [WhatsApp](https://www.whatsapp.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
 
 #### [Wechat](https://www.wechat.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
