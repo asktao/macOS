@@ -24,9 +24,6 @@ What I installed in my macOS
 + [iPadOS](#iPadOS-)
 
 ## Applications
-### Business
-#### [Aruba VIA](https://www.arubanetworks.com) 📱  <img src="iPadOS.jpg" width="20" height="20" />
- -The Aruba Virtual Intranet Access (VIA) client is a secure VPN service for users who need corporate connectivity at home, temporary sites, or while they're mobile.
 ### Developer
 #### [Xcode](https://developer.apple.com/xcode) 
  -Xcode is Apple's integrated development environment for macOS, used to develop software for macOS, iOS, iPadOS, watchOS, and tvOS.
