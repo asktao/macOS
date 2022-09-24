@@ -24,6 +24,9 @@ What I installed in my macOS
 + [iPadOS](#iPadOS-)
 
 ## Applications
+### Business
+#### [zoom.us](https://zoom.us/) 📱  <img src="iPadOS.jpg" width="20" height="20" />
+ -Zoom's secure, reliable video platform powers all of your communication needs, including meetings, chat, phone, webinars, and online events.
 ### Developer
 #### [Xcode](https://developer.apple.com/xcode) 
  -Xcode is Apple's integrated development environment for macOS, used to develop software for macOS, iOS, iPadOS, watchOS, and tvOS.
