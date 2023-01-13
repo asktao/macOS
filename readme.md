@@ -90,6 +90,8 @@ What I installed in my macOS
  -MainStage supports your addiction to knobs, buttons and faders. It can connect with just about any external MIDI device on the planet.
 #### [GarageBand](https://www.apple.com/sg/mac/garageband/)  📱 <img src="iPadOS.jpg" width="20" height="20" />
  -GarageBand is a line of digital audio workstations.
+#### [Shazam](https://www.shazam.com)   📱 <img src="iPadOS.jpg" width="20" height="20" />
+ -Shazam is an application that can identify music, movies, advertising, and television shows, based on a short sample played and using the microphone on the device. 
 #### [Spotify](https://www.spotify.com/sg-en) 📱 <img src="iPadOS.jpg" width="20" height="20" />
 
 #### [VOX](https://vox.rocks) 📱 <img src="iPadOS.jpg" width="20" height="20" />
