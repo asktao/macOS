@@ -56,6 +56,8 @@ What I installed in my macOS
  -iTerm2 is a replacement for Terminal and the successor to iTerm.
 #### [CodeRunner](https://coderunnerapp.com)
  -A lightweight, multi-language programming text editor and IDE for macOS.
+#### [Interactful](https://apps.apple.com/us/app/interactful/id1528095640)
+ -An interactive guide for for SwiftUI to help designers and developers build better apps.
 
 ### Education
 #### [Anki](https://apps.ankiweb.net) 📱 <img src="iPadOS.jpg" width="20" height="20" />
