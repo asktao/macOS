@@ -84,6 +84,8 @@ What I installed in my macOS
  -VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols.
 #### [Vectornator](https://www.vectornator.io) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -Vectornator is a graphic design software, developed by Linearity GmbH, that simplifies the design creation process for designers by providing intuitive tools & automating routine problems faced in the area.
+#### [Figma](https://www.figma.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
+ -Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.
 
 ### Music
 #### [Logic Pro](https://www.apple.com/sg/logic-pro/) 
