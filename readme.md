@@ -170,8 +170,6 @@ What I installed in my macOS
 * [brew](https://brew.sh) Package Manager
 * [ag](https://github.com/ggreer/the_silver_searcher)
 * [jq](https://stedolan.github.io/jq/)
-* [git](https://git-scm.com)
-* [vim](https://www.vim.org)
 * [tmux](https://tmux.github.io/)
 * [nmap](https://nmap.org)
 
