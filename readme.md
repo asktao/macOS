@@ -58,6 +58,8 @@ What I installed in my macOS
  -A lightweight, multi-language programming text editor and IDE for macOS.
 #### [Interactful](https://apps.apple.com/us/app/interactful/id1528095640)
  -An interactive guide for for SwiftUI to help designers and developers build better apps.
+#### [Lookin](https://lookin.work)
+ -Free and Open-Source macOS App for iOS View Debugging.
 
 ### Education
 #### [Anki](https://apps.ankiweb.net) 📱 <img src="iPadOS.jpg" width="20" height="20" />
