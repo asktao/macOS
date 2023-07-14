@@ -143,7 +143,7 @@ What I installed in my macOS
  -A modern color picker built for designers and developers, that allows you to collect, organize and edit colors.
 
 ### Reference
-#### Eudic 欧路词典 📱 <img src="iPadOS.jpg" width="20" height="20" />
+#### [Eudic 欧路词典](https://apps.apple.com/sg/app/eudic-%E6%AC%A7%E8%B7%AF%E8%AF%8D%E5%85%B8/id434350458?mt=12) 📱 <img src="iPadOS.jpg" width="20" height="20" />
 
 ### Social
 #### [Telegram](https://telegram.org) 📱 <img src="iPadOS.jpg" width="20" height="20" />
