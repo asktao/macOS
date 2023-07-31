@@ -66,7 +66,7 @@ What I installed in my macOS
  -Anki is a program which makes remembering things easy.
 
 ### Graphics
-#### [Final Cut Pro](https://www.apple.com/sg/final-cut-pro/) 
+#### [Final Cut Pro](https://www.apple.com/sg/final-cut-pro/)   <img src="iPadOS.jpg" width="20" height="20" />
  -Final Cut Pro offers the most advanced organising tools of any professional video-editing application.
 #### [iMovie](https://www.apple.com/sg/imovie/)  📱 <img src="iPadOS.jpg" width="20" height="20" />
  -iMovie is a video editing software application.
@@ -90,7 +90,7 @@ What I installed in my macOS
  -Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.
 
 ### Music
-#### [Logic Pro](https://www.apple.com/sg/logic-pro/) 
+#### [Logic Pro](https://www.apple.com/sg/logic-pro/)   <img src="iPadOS.jpg" width="20" height="20" />
  -Logic Pro is a digital audio workstation and MIDI sequencer software application.
 #### [MainStage](https://www.apple.com/sg/mainstage/) 
  -MainStage supports your addiction to knobs, buttons and faders. It can connect with just about any external MIDI device on the planet.
