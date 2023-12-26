@@ -29,7 +29,7 @@ What I installed in my macOS
  -Zoom's secure, reliable video platform powers all of your communication needs, including meetings, chat, phone, webinars, and online events.
 ### Developer
 #### [Xcode](https://developer.apple.com/xcode) 
- -Xcode is Apple's integrated development environment for macOS, used to develop software for macOS, iOS, iPadOS, watchOS, and tvOS.
+ -Xcode is Apple's integrated development environment for macOS, used to develop software for macOS, iOS, iPadOS, watchOS, tvOS, and visionOS.
 #### [TestFlight](https://developer.apple.com/testflight/)  📱  <img src="iPadOS.jpg" width="20" height="20" />
  -TestFlight makes it easy to invite users to test your apps and App Clips and collect valuable feedback before releasing your apps on the App Store.
 #### [Developer](https://developer.apple.com)  📱  <img src="iPadOS.jpg" width="20" height="20" />
