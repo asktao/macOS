@@ -160,8 +160,6 @@ What I installed in my macOS
 
 #### [The Unarchiver](https://theunarchiver.com)
 
-#### Kindle
-
 #### OpenVPN Connect 📱 <img src="iPadOS.jpg" width="20" height="20" />
 
 
