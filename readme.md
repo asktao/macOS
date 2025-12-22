@@ -58,6 +58,7 @@ What I installed in my macOS
  -An interactive guide for for SwiftUI to help designers and developers build better apps.
 #### [Lookin](https://lookin.work)
  -Free and Open-Source macOS App for iOS View Debugging.
+#### [Antigravity](https://antigravity.google)
 
 ### Education
 #### [Anki](https://apps.ankiweb.net) 📱 <img src="iPadOS.jpg" width="20" height="20" />
