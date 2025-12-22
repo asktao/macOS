@@ -144,6 +144,10 @@ What I installed in my macOS
  -A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
 #### [Sip](https://sipapp.io)
  -A modern color picker built for designers and developers, that allows you to collect, organize and edit colors.
+#### [ChatGPT](https://chatgpt.com)
+ -ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.
+#### [Claude](https://claude.ai)
+ -Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.
 
 ### Reference
 #### [Eudic 欧路词典](https://apps.apple.com/sg/app/eudic-%E6%AC%A7%E8%B7%AF%E8%AF%8D%E5%85%B8/id434350458?mt=12) 📱 <img src="iPadOS.jpg" width="20" height="20" />
