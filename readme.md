@@ -42,8 +42,6 @@ What I installed in my macOS
  -SubEthaEdit is a collaborative real-time editor.
 #### [Pycharm](https://www.jetbrains.com/pycharm)
  -PyCharm is an integrated development environment used in computer programming, specifically for the Python language.
-#### [JSON XML Format](https://apps.apple.com/sg/app/json-xml-format/id1512707568)
-
 #### [Wireshark](https://www.wireshark.org)
  -Wireshark is a free and open-source packet analyzer.
 #### [Charles](https://www.charlesproxy.com)
@@ -59,6 +57,7 @@ What I installed in my macOS
 #### [Lookin](https://lookin.work)
  -Free and Open-Source macOS App for iOS View Debugging.
 #### [Antigravity](https://antigravity.google)
+
 
 ### Education
 #### [Anki](https://apps.ankiweb.net) 📱 <img src="iPadOS.jpg" width="20" height="20" />
