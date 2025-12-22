@@ -58,6 +58,8 @@ What I installed in my macOS
  -Free and Open-Source macOS App for iOS View Debugging.
 #### [Antigravity](https://antigravity.google)
 
+#### [Cursor](https://cursor.com)
+ -Cursor is an AI-assisted integrated development environment for Windows, macOS and Linux. It is a fork of Visual Studio Code with additional AI features.
 
 ### Education
 #### [Anki](https://apps.ankiweb.net) 📱 <img src="iPadOS.jpg" width="20" height="20" />
