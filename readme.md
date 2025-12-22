@@ -175,6 +175,7 @@ What I installed in my macOS
 * [jq](https://stedolan.github.io/jq/)
 * [tmux](https://tmux.github.io/)
 * [nmap](https://nmap.org)
+* [Codex](https://openai.com/codex/)
 
 ## [iOS 📱](https://github.com/asktao/iOS)
  -What I installed in my iOS
