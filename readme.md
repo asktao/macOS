@@ -142,8 +142,8 @@ What I installed in my macOS
  -Discover the note-taking app loved by students, digital planners, notetakers all over the world.
 #### [Notion](https://www.notion.so) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
-#### [Sip](https://sipapp.io)
- -A modern color picker built for designers and developers, that allows you to collect, organize and edit colors.
+#### [System Color Picker](https://apps.apple.com/app/id1545870783)
+ -Pick colors from anywhere using the built-in color picker.
 #### [ChatGPT](https://chatgpt.com)
  -ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.
 #### [Claude](https://claude.ai)
