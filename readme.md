@@ -88,6 +88,8 @@ What I installed in my macOS
  -Vectornator is a graphic design software, developed by Linearity GmbH, that simplifies the design creation process for designers by providing intuitive tools & automating routine problems faced in the area.
 #### [Figma](https://www.figma.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.
+#### [OBS](https://obsproject.com)
+ -Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux. 
 
 ### Music
 #### [Logic Pro](https://www.apple.com/sg/logic-pro/)   <img src="iPadOS.jpg" width="20" height="20" />
