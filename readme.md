@@ -48,8 +48,8 @@ What I installed in my macOS
  -Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 #### [Visual Studio Code](https://code.visualstudio.com)
  -Visual Studio Code is a source-code editor.
-#### [Paw](https://paw.cloud)
- -Paw is a full-featured and beautifully designed Mac app that makes interaction with REST services delightful.
+#### [Rapid](https://paw.cloud)(Paw)
+ -Rapid is a full-featured and beautifully designed Mac app that makes interaction with REST services delightful.
 #### [iTerm](https://iterm2.com)
  -iTerm2 is a replacement for Terminal and the successor to iTerm.
 #### [Interactful](https://apps.apple.com/us/app/interactful/id1528095640)
