@@ -72,18 +72,12 @@ What I installed in my macOS
  -Affinity Designer is a vector graphics editor.
 #### [Affinity Photo](https://affinity.serif.com/en-gb/photo) <img src="iPadOS.jpg" width="20" height="20" />
  -Affinity Photo is a raster graphics editor.
-#### [Sketch](https://www.sketch.com)
- -Sketch is a vector graphics editor.
-#### [Pixelmator Pro](https://www.pixelmator.com/pro/) 📱 <img src="iPadOS.jpg" width="20" height="20" />
- -Pixelmator Pro includes a stunning collection of handcrafted dual-texture brushes, full graphics tablet support, and advanced paint blending technologies.
 #### [DaVinci Resolve](https://www.blackmagicdesign.com/sg/products/davinciresolve)
  -DaVinci Resolve is a color correction and non-linear video editing application.
 #### [IINA](https://iina.io)
  -IINA is a free and open-source media player.
 #### [VLC](https://www.videolan.org) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols.
-#### [Vectornator](https://www.vectornator.io) 📱 <img src="iPadOS.jpg" width="20" height="20" />
- -Vectornator is a graphic design software, developed by Linearity GmbH, that simplifies the design creation process for designers by providing intuitive tools & automating routine problems faced in the area.
 #### [Figma](https://www.figma.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.
 #### [OBS](https://obsproject.com)
