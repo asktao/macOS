@@ -90,6 +90,10 @@ What I installed in my macOS
  -Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.
 #### [OBS](https://obsproject.com)
  -Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux. 
+#### [Photomator](https://www.pixelmator.com/photomator/)  📱 <img src="iPadOS.jpg" width="20" height="20" />
+ -Photomator is a powerful yet easy-to-use photo editor for Mac, iPhone, iPad, and Vision Pro.
+#### [Pixelmator Pro](https://www.apple.com/pixelmator-pro/)  <img src="iPadOS.jpg" width="20" height="20" />
+ -Pixelmator Pro is a powerful, easy-to-use image editor that brings professional tools and powerful AI features to everyone across Mac and iPad.
 
 ### Music
 #### [Logic Pro](https://www.apple.com/sg/logic-pro/)   <img src="iPadOS.jpg" width="20" height="20" />
