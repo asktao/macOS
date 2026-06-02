@@ -162,8 +162,6 @@ What I installed in my macOS
 
 #### [The Unarchiver](https://theunarchiver.com)
 
-#### OpenVPN Connect 📱 <img src="iPadOS.jpg" width="20" height="20" />
-
 
 ## Command Line
 [my dotfiles](https://github.com/asktao/dotfiles)
