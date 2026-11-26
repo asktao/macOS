@@ -38,8 +38,6 @@ What I installed in my macOS
  -Dash is an API Documentation Browser and Code Snippet Manager.
 #### [Sublime Text](https://www.sublimetext.com)
  -Sublime Text is a sophisticated text editor for code, markup and prose.
-#### [SubEthaEdit](https://subethaedit.net)
- -SubEthaEdit is a collaborative real-time editor.
 #### [Pycharm](https://www.jetbrains.com/pycharm)
  -PyCharm is an integrated development environment used in computer programming, specifically for the Python language.
 #### [Wireshark](https://www.wireshark.org)
