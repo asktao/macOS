@@ -120,12 +120,10 @@ What I installed in my macOS
 #### [Google Chrome](https://www.google.com/chrome) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -Browser.
  + extensions
- * [Evernote Web Clipper](https://evernote.com/features/webclipper)
-    -Use the Evernote extension to save things you see on the web into your Evernote account.
+ * [Obsidian Web Clipper](https://github.com/obsidianmd/obsidian-clipper) 
+    -Bring the web to your personal knowledge base. Web Clipper is free, open source, and packed with useful features that make your favorite browser a sharper tool.
  * [Zotero Connector](https://www.zotero.org/download/connectors)
     -Save references to Zotero from your web browser
- * [Obsidian Web Clipper](https://github.com/obsidianmd/obsidian-clipper)
-    -Bring the web to your personal knowledge base. Web Clipper is free, open source, and packed with useful features that make your favorite browser a sharper tool.
 #### [Dropbox](https://www.dropbox.com) 📱 <img src="iPadOS.jpg" width="20" height="20" />
  -Dropbox is a file hosting service.
 #### [Obsidian](https://obsidian.md) 📱 <img src="iPadOS.jpg" width="20" height="20" />
@@ -144,6 +142,8 @@ What I installed in my macOS
  -ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.
 #### [Claude](https://claude.ai)
  -Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.
+#### [Gemini](https://gemini.google.com)
+ -Gemini is a generative artificial intelligence chatbot and virtual assistant developed by Google.
 
 ### Reference
 #### [Eudic 欧路词典](https://apps.apple.com/sg/app/eudic-%E6%AC%A7%E8%B7%AF%E8%AF%8D%E5%85%B8/id434350458?mt=12) 📱 <img src="iPadOS.jpg" width="20" height="20" />
