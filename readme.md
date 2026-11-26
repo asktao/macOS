@@ -48,8 +48,6 @@ What I installed in my macOS
  -Visual Studio Code is a source-code editor.
 #### [Rapid](https://paw.cloud)(Paw)
  -Rapid is a full-featured and beautifully designed Mac app that makes interaction with REST services delightful.
-#### [iTerm](https://iterm2.com)
- -iTerm2 is a replacement for Terminal and the successor to iTerm.
 #### [Interactful](https://apps.apple.com/us/app/interactful/id1528095640)
  -An interactive guide for for SwiftUI to help designers and developers build better apps.
 #### [Lookin](https://lookin.work)
