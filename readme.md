@@ -144,6 +144,8 @@ What I installed in my macOS
  -Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.
 #### [Gemini](https://gemini.google.com)
  -Gemini is a generative artificial intelligence chatbot and virtual assistant developed by Google.
+#### [Remain](https://apps.apple.com/sg/app/remain/id6757414194?mt=12Remain)
+ -Remain helps you understand how much time is left - quietly and beautifully
 
 ### Reference
 #### [Eudic 欧路词典](https://apps.apple.com/sg/app/eudic-%E6%AC%A7%E8%B7%AF%E8%AF%8D%E5%85%B8/id434350458?mt=12) 📱 <img src="iPadOS.jpg" width="20" height="20" />
